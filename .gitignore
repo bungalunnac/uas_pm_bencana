@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Large binaries and data models
+# (Optional: uncomment if you don't want to push models/processed data to Git)
+# models/best_models.pkl
+# data/processed/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
