@@ -14,7 +14,7 @@ ROOT_DIR   = os.path.dirname(BASE_DIR)
 DATA_FILE  = os.path.join(ROOT_DIR, "data", "processed", "complete_prediction_results.csv")
 AGG_FILE   = os.path.join(ROOT_DIR, "data", "processed", "processed_agg.csv")
 MODEL_FILE = os.path.join(ROOT_DIR, "models", "best_models.pkl")
-IMAGE_FILE = os.path.join(ROOT_DIR, "reports", "model_comparison.png")
+IMAGE_FILE = os.path.join(ROOT_DIR, "reports", "02_modeling", "model_comparison.png")
 YEAR_LIST = [2027, 2028, 2029, 2030, 2031]
 
 # ---------------------------------------------------------------------------
