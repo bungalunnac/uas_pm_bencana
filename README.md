@@ -5,7 +5,7 @@ Informatics Engineering, Universitas Dian Nuswantoro, Semarang (2025/2026)
 
 Forecasting global natural disaster frequency for 2027–2031 using **Linear Regression** and **KNN Regression**, based on 124 years of historical EM-DAT data (1900–2023), packaged into an interactive Streamlit dashboard.
 
-🔗 **Live Demo:** (https://15611-uaspmbencana.streamlit.app/)
+🔗 **Live Demo:** https://15611-uaspmbencana.streamlit.app/
 📄 **Full Technical Report:** [`reports/Laporan_UAS_Pembelajaran_Mesin.pdf`](./reports/)
 
 ---
@@ -95,7 +95,7 @@ uas_pm/
 
 ```bash
 # 1. Clone the repository
-git clone (https://github.com/bungalunnac/global-disaster-prediction.git)
+git clone https://github.com/bungalunnac/global-disaster-prediction.git
 cd uas_pm
 
 # 2. Install dependencies
